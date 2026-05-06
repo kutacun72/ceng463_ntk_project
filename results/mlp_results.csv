@@ -1,0 +1,2 @@
+Model,Accuracy,Macro-F1,Runtime (s),Epochs,Hidden Size,Learning Rate
+MLP hidden=256,0.8475,0.8491,25.37,10,256,0.001

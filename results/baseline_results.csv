@@ -1,0 +1,4 @@
+Model,Accuracy,Macro-F1,Runtime (s)
+Logistic Regression,0.8145,0.8152,10.54
+Linear SVM,0.799,0.7981,32.96
+RBF SVM,0.8665,0.8664,14.99
